@@ -1,0 +1,28 @@
+JavaScript Callbacks and Arrow Functions
+
+Question 1
+
+When the add and subtract functions are passed as arguments to the compute function - they are ___ functions.
+
+    Callbacks
+
+
+Question 2
+
+In your own words describe what the term "implicit return" means.
+
+    From what we learned and from doing my own research it looks to ve that 
+    that "implicit return" are when a function returns values without using
+    the key word "return" & also the line of code has to be compact, just short 
+    and to the point.
+
+ 
+
+Question 3
+
+Describe what a callback function is in your own words.
+
+    I would describe a call back function as a function that you are putting in 
+    as an argument for a different function. Basically calling on a function inside a function
+    in a way. 
+    
